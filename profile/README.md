@@ -6,7 +6,7 @@ These code bases were created and explained in the [MCP Servers - Connect AI to 
 
 | # | Topic | Video | Code |
 |---|-------|-------|------|
-| 1 | Basic MCP Server | [Video](https://youtu.be/MfQx2uX6iCU) | [Code Examples](https://github.com/OhioIoT-ESP32-WiFi-Examples/Intro-To-Events) |
+| 1 | Basic MCP Server | [Video](https://youtu.be/MfQx2uX6iCU) | [Code Example](https://github.com/OhioIoT-MCP/Basic-MCP) |
 | 2 | Basic MCP Server + Auth | [Video](https://youtu.be/MfQx2uX6iCU) | [Code Example](https://github.com/OhioIoT-MCP/Basic-MCP-Auth) |
 
 
