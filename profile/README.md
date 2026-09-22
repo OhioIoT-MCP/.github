@@ -1,4 +1,4 @@
-# OhioIoT MCP Server<a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
+# OhioIoT MCP<a href="https://www.ohioiot.com"><img src="https://www.ohioiot.com/logo_150.jpg" width="40" ></a>
 #### [(back to OhioIoT GitHub Page)](https://github.com/OhioIoT-Examples)
 
 These code bases were created and explained the [MCP Servers - Connect AI to your IoT](https://www.youtube.com/playlist?list=PLWt6fstOIpD0) playlist on the OhioIoT YouTube channel.  The following videos are matched with the following code bases:
