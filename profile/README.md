@@ -6,13 +6,14 @@ These code bases were created and explained in the [MCP Servers - Connect AI to 
 
 | # | Topic | Video | Code |
 |---|-------|-------|------|
-| 1 | Basic MCP Server | [Video](https://youtu.be/MfQx2uX6iCU) | [Code Example](https://github.com/OhioIoT-MCP/Basic-MCP) |
-| 2 | Basic MCP Server + Auth | [Video](https://youtu.be/kI4rFemShu0) | [Code Example](https://github.com/OhioIoT-MCP/Basic-MCP-Auth) |
+| 1 | Connect AI to Your Internet of Things Data | [Video](https://youtu.be/QElHbEqnipQ) | - |
+| 2 | Connect AI To Your Server in Just 50 Lines | [Video](https://youtu.be/MfQx2uX6iCU) | [Code Example](https://github.com/OhioIoT-MCP/Basic-MCP) |
+| 3 | Lock Down Your MCP Server with Auth Keys | [Video](https://youtu.be/kI4rFemShu0) | [Code Example](https://github.com/OhioIoT-MCP/Basic-MCP-Auth) |
 
 
 <br />
 Learn more about OhioIoT:
 
 - [OhioIoT Homepage](https://ohioiot.com) - Our core product: An external MQTT broker, combined with tools that help you build your own IoT system
-- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot) - Agenda free tutorials showing you how to get started in IoT
+- [OhioIoT YouTube Channel](https://www.youtube.com/@ohioiot) - Agenda-free tutorials showing you how to get started in IoT
 - [OhioIoT GitHub Index](https://github.com/OhioIoT-Examples) - The central index of code examples available on GitHub
