@@ -12,7 +12,9 @@ These code bases were created and explained in the [MCP Servers - Connect AI to 
 
 
 <br />
+
 ## Learn more about OhioIoT
+
 - [OhioIoT on the web](https://ohioiot.com) — the tools you need to put together your own IoT system with an ESP32. $7/mo.
 - [YouTube @ohioiot](https://www.youtube.com/@ohioiot) — agenda-free IoT tutorials
 - [Code examples index](https://github.com/OhioIoT-Examples)
